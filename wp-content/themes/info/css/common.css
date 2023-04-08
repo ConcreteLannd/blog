@@ -1,0 +1,9 @@
+.ttl_section {
+    font-size: 32px;
+
+}
+.ttl_section span {
+    display: inline-block;
+    border-bottom: 2px solid #ff0000;
+    padding-bottom: 10px;
+}
